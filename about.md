@@ -7,6 +7,5 @@ I'm Justin👋.
 * 👻 currently studying NLP
 * 📞 contact me through:
   * 📧email: justinzzk2002@163.com
-  * :octocat:github: https://github.com/violets-blue
 
 
