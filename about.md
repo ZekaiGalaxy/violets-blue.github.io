@@ -1,4 +1,12 @@
-# About
+## About me🌟
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I'm Justin👋.    
+* 🎓 A student at Peking University
+* 💻 major in CS
+* 🎃 interested in cool things
+* 👻 currently studying NLP
+* 📞 contact me through:
+  * 📧email: justinzzk2002@163.com
+  * :octocat:github: https://github.com/violets-blue
+
 
